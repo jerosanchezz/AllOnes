@@ -1,4 +1,4 @@
-# All Ones - Funny&Puzzle (V1.0)
+# AllOnes - Puzzle Game
 
 All Ones is a funny puzzle. Unlike traditional puzzles, All Ones focuses on numbers. We're developing more modes, features, levels and fun for every single one of our players.
 
